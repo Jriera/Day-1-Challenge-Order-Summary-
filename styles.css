@@ -78,13 +78,13 @@ body, html {
     color: #717FA6;
   }
 
-  .box span{
+  .plan{
     position: absolute;
     width: 354px;
     height: 98px;
     left: 48px;
     top: 417px;
-    display: flex;
+    display: block;
     flex-direction: row;
     justify-content: space-between;
     background: #F7F9FF;
@@ -92,13 +92,12 @@ body, html {
     padding:25px;
   }
 
- /* span img{
-    position: absolute;
+ span img{
+    
     width: 48px;
     height: 48px;
-    left: 0px;
-    top: 0px;
-  }*/
+   
+  }
 
   .pricing{
     text-align: center;
@@ -142,6 +141,7 @@ body, html {
     right: 39.56%;
     bottom: 50PX;
     background: #FFFFFF;
+    width: 354px;
    
     
   }
@@ -150,4 +150,6 @@ body, html {
     font-weight: 900;
     text-align: center;
     color:#717FA6;
+    height: 20px;
+    
   }
