@@ -89,14 +89,13 @@ body, html {
     justify-content: space-between;
     background: #F7F9FF;
     border-radius: 11px;
-    padding:25px;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
   }
 
   div.plan{
-    margin-left: -202px;
+    margin-left: -177px;
 
   }
 
@@ -104,9 +103,15 @@ body, html {
     
     width: 48px;
     height: 48px;
+    padding-top: 25px;
    
   }
-
+.pricing{
+  text-align: left;
+  padding-top: 25px;
+  font-family: Red Hat Display;
+   font-style: normal;
+}
 
 
   .remorse{
@@ -116,6 +121,8 @@ body, html {
       font-style: normal;
       font-weight: bold;
       font-size: 14px;
+      text-align: right;
+      padding-top: 25px;
       
       /* identical to box height */
 
