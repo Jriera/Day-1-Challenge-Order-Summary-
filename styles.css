@@ -84,6 +84,9 @@ body, html {
     height: 98px;
     left: 48px;
     top: 417px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
   }
 
   span img{
@@ -133,5 +136,5 @@ body, html {
     text-align: center;
     color: white;
     padding: 15px;
-    width: 75%;
+    width: 354px;
   }
