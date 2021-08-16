@@ -16,6 +16,7 @@ body, html {
 
   #pattern{
     width: 100%;
+    
   }
 
  
@@ -23,10 +24,9 @@ body, html {
   .box{
     position: absolute;
     top: 101px;
-    left: 50%; 
-  transform: translate (-50%, -50%); 
-  border: 5px solid #FFFF00; 
-  padding: 10px;
+    left:50%;
+    margin-left: -225px;
+   
    
     
     
