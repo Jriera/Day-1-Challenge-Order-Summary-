@@ -1,5 +1,6 @@
 body {
     background-image: url("./media/pattern-background-desktop.svg");
+    background-size: contain;
     position: absolute;
 width: 1440px;
 height: 437px;
