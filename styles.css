@@ -85,3 +85,38 @@ body, html {
     left: 48px;
     top: 417px;
   }
+
+  span img{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+  }
+
+  .pricing{
+    position: absolute;
+    left: 22.22%;
+    right: 47.71%;
+    top: 0%;
+    bottom: 0%;
+  }
+
+  .remorse{
+    position: absolute;
+      height: 19px;
+      left: 83.01%;
+      right: 0%;
+      top: calc(50% - 19px/2 + 0.5px);
+
+      font-family: Red Hat Display;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 19px;
+      /* identical to box height */
+
+      text-decoration-line: underline;
+
+      color: #382AE1;
+  }
