@@ -89,7 +89,7 @@ body, html {
     justify-content: space-between;
   }
 
-  span img{
+ /* span img{
     position: absolute;
     width: 48px;
     height: 48px;
@@ -103,7 +103,7 @@ body, html {
     right: 47.71%;
     top: 0%;
     bottom: 0%;
-  }
+  }*/
 
   .remorse{
     position: absolute;
@@ -135,6 +135,21 @@ body, html {
     border-radius: 11px;
     text-align: center;
     color: white;
+    font-weight: 900;
+    padding: 15px;
+    width: 354px;
+  }
+
+  .cancelation{
+    position: absolute;
+    height: 20px;
+    left: 39.11%;
+    right: 39.56%;
+    top: calc(50% - 20px/2 + 290.5px);
+    background: #FFFFFF;
+    font-weight: 900;
+    text-align: center;
+    color:#717FA6;
     padding: 15px;
     width: 354px;
   }
