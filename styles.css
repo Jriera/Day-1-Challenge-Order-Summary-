@@ -87,6 +87,8 @@ body, html {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    background: #F7F9FF;
+    border-radius: 11px;
   }
 
  /* span img{
@@ -150,6 +152,5 @@ body, html {
     font-weight: 900;
     text-align: center;
     color:#717FA6;
-    padding: 15px;
-    width: 354px;
+    
   }
