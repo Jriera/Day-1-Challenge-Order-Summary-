@@ -58,3 +58,30 @@ body, html {
 
     color: #1F2E55;
   }
+
+  .box p{
+    position: absolute;
+    height: 78px;
+    left: 10.67%;
+    right: 10.67%;
+    top: calc(50% - 78px/2 + 9.5px);
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    text-align: center;
+
+    color: #717FA6;
+  }
+
+  .box span{
+    position: absolute;
+    width: 354px;
+    height: 98px;
+    left: 48px;
+    top: 417px;
+  }
