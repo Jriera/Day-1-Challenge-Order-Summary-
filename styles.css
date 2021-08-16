@@ -116,13 +116,13 @@ body, html {
   margin-left: 25px;
 }
 
-#length{
+.length{
   font-weight: 900;
   color: #1F2E55;
 
 }
 
-#cost{
+.cost{
   font-weight: 500;
   color: #717FA6;
 }
