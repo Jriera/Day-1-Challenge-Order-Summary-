@@ -3,14 +3,13 @@ body, html {
   }
   body{
     background-color: #E0E8FF;
-    /* Flexbox properties*/
+    position: relative;
     
   }
   .bg {
     /* The image used */
     background-image: url("./media/pattern-background-desktop.svg");
-  
-    
+       
     height: 50%;
   
     /* Center and scale the image nicely */
@@ -18,12 +17,16 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 
-    
+    /*positioning*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
   }
 
   .box{
-    width: 31.25%;
-    height: 77,4%;
-    background-color: black;
-    align-self: center;
+    position: absolute;
+    top: 101px;
+    left: 495px ;
+    
+    
   }
