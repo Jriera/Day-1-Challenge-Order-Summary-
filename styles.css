@@ -84,7 +84,7 @@ body, html {
     height: 98px;
     left: 48px;
     top: 417px;
-    display: block;
+   
     flex-direction: row;
     justify-content: space-between;
     background: #F7F9FF;
@@ -99,8 +99,9 @@ body, html {
    
   }
 
-  .pricing{
+  .pricing p{
     text-align: center;
+    font-size: 16px;
   }
 
   .remorse{
@@ -110,7 +111,7 @@ body, html {
       font-style: normal;
       font-weight: bold;
       font-size: 14px;
-      line-height: 19px;
+      
       /* identical to box height */
 
       text-decoration-line: underline;
@@ -137,8 +138,7 @@ body, html {
   .cancelation{
     position: absolute;
     height: 20px;
-    left: 39.11%;
-    right: 39.56%;
+    
     bottom: 50PX;
     background: #FFFFFF;
     width: 354px;
