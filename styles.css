@@ -90,6 +90,9 @@ body, html {
     background: #F7F9FF;
     border-radius: 11px;
     padding:25px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
   }
 
   div.plan{
@@ -97,17 +100,14 @@ body, html {
 
   }
 
- span img{
+ .plan img{
     
     width: 48px;
     height: 48px;
    
   }
 
-  .pricing p{
-    text-align: center;
-    font-size: 16px;
-  }
+
 
   .remorse{
     
