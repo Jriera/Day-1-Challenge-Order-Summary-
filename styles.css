@@ -3,6 +3,9 @@ body, html {
   }
   body{
     background-color: #E0E8FF;
+    /* Flexbox properties*/
+    display: flex;
+    justify-content: center;
   }
   .bg {
     /* The image used */
@@ -16,9 +19,7 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 
-    /* Flexbox properties*/
-    display: flex;
-    justify-content: center;
+    
   }
 
   .box{
