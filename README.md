@@ -21,7 +21,7 @@ The challenge consists on designing and developing a front end solution for a su
 
 ### Screenshot
 
-![./media/Order Summary Component.png]
+![./media/Order Summary Component.png](./media/Order Summary Component.png)
 
 
 ### Links
