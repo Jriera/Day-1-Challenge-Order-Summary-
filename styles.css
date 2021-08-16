@@ -15,11 +15,15 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    /* Flexbox properties*/
     display: flex;
+    justify-content: center;
   }
 
   .box{
     width: 31.25%;
     height: 77,4%;
     background-color: black;
+    align-self: center;
   }
