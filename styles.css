@@ -82,7 +82,7 @@ body, html {
     position: absolute;
     width: 354px;
     height: 98px;
-    left: 48px;
+    left: 50%;
     top: 417px;
    
     flex-direction: row;
@@ -90,6 +90,11 @@ body, html {
     background: #F7F9FF;
     border-radius: 11px;
     padding:25px;
+  }
+
+  div.plan{
+    margin-left: -202px;
+
   }
 
  span img{
@@ -138,10 +143,11 @@ body, html {
   .cancelation{
     position: absolute;
     height: 20px;
-    
+    left: 50%;
     bottom: 50PX;
     background: #FFFFFF;
     width: 354px;
+    margin-left: -177px;;
    
     
   }
@@ -149,7 +155,8 @@ body, html {
   .cancelation p{
     font-weight: 900;
     text-align: center;
-    color:#717FA6;
+    color:#1F2E55;
     height: 20px;
+    font-size: 15px;
     
   }
