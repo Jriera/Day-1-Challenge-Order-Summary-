@@ -24,14 +24,15 @@ body, html {
   }
 
   #pattern {
-    max-height: 100%;
-    width: auto;
+    /* max-height: 100%;
+    width: auto; */
   }
 
   .box{
     position: absolute;
     top: 101px;
     left: 495px ;
+    border-radius: 15px 15px 0px;
     
     
   }
