@@ -26,7 +26,7 @@ The challenge consists on designing and developing a front end solution for a su
 
 ### Links
 
-- Solution URL: [Order Summary Component](https://jriera.github.io/Day-1-Challenge-Order-Summary-/)
+- Solution URL: [Order Summary Component project site](https://jriera.github.io/Day-1-Challenge-Order-Summary-/)
 
 
 ## My process
@@ -56,7 +56,7 @@ It is possible that I integrate this challenge in other challenges down the road
 ## Author
 
 
-- GitHub - [https://github.com/Jriera/Day-1-Challenge-Order-Summary-] 
+- GitHub - [GitHub @Jriera] (https://github.com/Jriera/)
 
 
 
