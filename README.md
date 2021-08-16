@@ -21,12 +21,12 @@ The challenge consists on designing and developing a front end solution for a su
 
 ### Screenshot
 
-![./media/Order Summary Component.png](./media/Order Summary Component.png)
+![snapshot](https://github.com/Jriera/Day-1-Challenge-Order-Summary-/blob/main/media/Order%20Summary%20Component.png)
 
 
 ### Links
 
-- Solution URL: [https://jriera.github.io/Day-1-Challenge-Order-Summary-/]
+- Solution URL: [Order Summary Component](https://jriera.github.io/Day-1-Challenge-Order-Summary-/)
 
 
 ## My process
@@ -37,7 +37,6 @@ Beginning with the main component and structure in HTML and polish the styles se
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 
 ### What I learned
