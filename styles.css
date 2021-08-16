@@ -7,20 +7,25 @@ body, html {
     
   }
   .bg {
-    /* The image used */
+    /* The image used 
     background-image: url("./media/pattern-background-desktop.svg");
        
     height: 50%;
   
-    /* Center and scale the image nicely */
+    /* Center and scale the image nicely 
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 
     /*positioning*/
     position: absolute;
     top: 0px;
     left: 0px;
+  }
+
+  #pattern {
+    max-height: 100%;
+    width: 50%;
   }
 
   .box{
